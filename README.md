@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Xaralampos-Makridhs&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xaralampos-Makridhs&theme=github-dark&hide_border=false)
 ![Xaralampos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xaralampos-Makridhs&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaralampos-Makridhs&layout=compact&theme=github_dark)
 
