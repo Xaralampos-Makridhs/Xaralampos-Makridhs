@@ -41,5 +41,3 @@
 - 🔹 [C-projects](https://github.com/Xaralampos-Makridhs/C-projects)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xaralampos-Makridhs&color=blue&style=flat)
