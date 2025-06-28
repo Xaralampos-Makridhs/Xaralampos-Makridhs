@@ -27,6 +27,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xaralampos-makridhs-5157b8332)
+
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Xaralampos2310)
 📧 makridhs.xaralampos@gmail.com
 
