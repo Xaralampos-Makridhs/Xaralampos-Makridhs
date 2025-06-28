@@ -28,6 +28,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xaralampos-makridhs-5157b8332)
 [![Twitter](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/Xaralampos2310)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:makridhs.xaralampos@gmail.com)
+
+
 
 
 ---
