@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Xaralampos Makridhs
+# 👋🏼 Hello, I'm Xaralampos Makridhs
 
 🎓 **Student in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
