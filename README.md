@@ -30,7 +30,6 @@
 [![Twitter](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/Xaralampos2310)
 
 
-
 ---
 
 ## 📌 Featured Projects
