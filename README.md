@@ -32,6 +32,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/xarhsmakridhs)
 [![Discord](https://img.shields.io/badge/Join%20me%20on%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/cMYWyTtf)
 
+---
+
+Enjoy: [![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3aBcD1EfgHiJKlmNOPqrST)
+
+
 
 
 
