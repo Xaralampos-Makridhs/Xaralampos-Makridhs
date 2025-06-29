@@ -19,7 +19,8 @@
 
 ## 📊 GitHub Stats
 
-![Xaralampos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xaralampos-Makridhs&show_icons=true&theme=github_dark&cache_seconds=600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xaralampos-Makridhs&show_icons=true&theme=github_dark&cache_seconds=60)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaralampos-Makridhs&layout=compact&theme=github_dark&cache_seconds=600)
 
 ---
