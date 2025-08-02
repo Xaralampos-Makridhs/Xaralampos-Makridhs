@@ -2,7 +2,7 @@
 
 🎓 **Student in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
-💻 Passionate about software development and web technologies  
+💻 ** Married to the game 
 
 ---
 
