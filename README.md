@@ -46,5 +46,6 @@
 - 🔹 [PHP-Course](https://github.com/Xaralampos-Makridhs/PHP-Course)
 - 🔹 [HTML-CSS-JS-projects](https://github.com/Xaralampos-Makridhs/HTML-CSS-JS-projects)
 - 🔹 [C-projects](https://github.com/Xaralampos-Makridhs/C-projects)
+- 🔹 [Python](https://github.com/Xaralampos-Makridhs/Python)
 
 ---
