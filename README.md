@@ -2,7 +2,7 @@
 
 🎓 **Student in Applied Informatics & Information Systems**  
 📍 **University of Macedonia**, Thessaloniki  
-💻 **Married to the game** 
+💻 **Missing in Action** 
 
 ---
 
