@@ -39,15 +39,3 @@
 ## 🎧 Enjoy while coding
 
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/56YzMTJxRBPqICLkHnaEnK?si=0733db6655a14769)
-
----
-
-## 📌 Featured Projects
-
-- 🔹 [JAVA-projects](https://github.com/Xaralampos-Makridhs/JAVA-projects)
-- 🔹 [PHP-Course](https://github.com/Xaralampos-Makridhs/PHP-Course)
-- 🔹 [HTML-CSS-JS-projects](https://github.com/Xaralampos-Makridhs/HTML-CSS-JS-projects)
-- 🔹 [C-projects](https://github.com/Xaralampos-Makridhs/C-projects)
-- 🔹 [Python](https://github.com/Xaralampos-Makridhs/Python)
-
----
