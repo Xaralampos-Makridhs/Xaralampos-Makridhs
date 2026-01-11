@@ -5,7 +5,7 @@
 💻 **Junior Software Developer** 
 
 💡**Fun Fact:**
-  - 🐛 Kinda afraid of bugs(in every sense of the word). 
+  - 🐛 Kinda afraid of bugs (in every sense of the word). 
 
 ---
 
