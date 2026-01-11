@@ -4,6 +4,9 @@
 📍 **University of Macedonia**, Thessaloniki  
 💻 **Junior Software Developer** 
 
+💡**Fun Fact:**
+  - 🐛 Kinda afraid of bugs(in every sense of the word). 
+
 ---
 
 ## 🚀 My Tech Stack
