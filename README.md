@@ -30,7 +30,10 @@
 
 ## Most Used Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Xaralampos-Makridhs&theme=tokyonight" />
+### Languages I use:
+![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)/>
 
 ---
 
