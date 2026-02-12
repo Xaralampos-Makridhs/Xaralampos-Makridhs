@@ -30,7 +30,8 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Xaralampos-Makridhs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Xaralampos-Makridhs&layout=compact&theme=dark)
+
 
 ---
 
