@@ -30,7 +30,7 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Xaralampos-Makridhs&theme=2077)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Xaralampos-Makridhs&theme=tokyonight" />
 
 ---
 
