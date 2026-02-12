@@ -28,6 +28,13 @@
 
 ---
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Xaralampos-Makridhs)
+
+---
+
+
 ## 🎧 Enjoy while coding
 
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/56YzMTJxRBPqICLkHnaEnK?si=0733db6655a14769)
