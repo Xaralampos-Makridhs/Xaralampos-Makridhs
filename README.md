@@ -30,7 +30,7 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaralampos-Makridhs&layout=compact&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=Xaralampos-Makridhs&layout=compact&theme=vision-friendly-dark)
 
 ---
 
